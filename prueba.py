@@ -1,3 +1,2 @@
-def suma(num,num2):
-    return print(num+num2)
-suma(5,98)
+nombre = input('Ingresa tu nombre por favor: \n')
+print(f'hola {nombre} que tal maquinola')
