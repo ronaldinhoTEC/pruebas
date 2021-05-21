@@ -1,7 +1,7 @@
 from tkinter import *
 
 raiz = Tk()
-raiz.title('titulo de la aplicacion')
+raiz.title('Estamos haciendo las pruebas correspondientes en la app')
 
 
 
