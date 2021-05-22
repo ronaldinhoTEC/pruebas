@@ -1,7 +1,9 @@
+from tkinter import *
 
-nombre = input('Ingresa tu nombre por favor: \n')
+raiz = Tk()
+raiz.title('titulo de la aplicacion')
 
-print(f'hola {nombre} eres un crack MAQUINOLA..')
 
 
+raiz.mainloop()
 
